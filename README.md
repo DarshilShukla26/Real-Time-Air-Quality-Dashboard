@@ -22,6 +22,9 @@ With its low power consumption, compact size, and high accuracy, the NEO-6M GPS 
 
    ![](https://github.com/DarshilShukla26/Real-Time-Air-Quality-Dashboard/assets/97797056/f74ffc54-c975-4794-8a04-39172f6e65ae)
 
+UML DIAGRAM WHICH DEPICTS THE FLOW OF DATA:
+
+![](https://github.com/DarshilShukla26/Real-Time-Air-Quality-Dashboard/assets/97797056/850b696a-be5b-447d-a9b8-204bf9856ddd)
 
 
 
