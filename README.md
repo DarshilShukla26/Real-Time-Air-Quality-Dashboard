@@ -27,4 +27,22 @@ With its low power consumption, compact size, and high accuracy, the NEO-6M GPS 
 ![](https://github.com/DarshilShukla26/Real-Time-Air-Quality-Dashboard/assets/97797056/850b696a-be5b-447d-a9b8-204bf9856ddd)
 
 # DATABASE USED: INFLUX DB
+Influx DB is the platform purpose-built to collect, store, process and visualize time series data(TSDB).
+The Influx DB data model organizes time series data into buckets and measurements. A bucket can contain multiple measurements.
+Bucket: Named location where time series data is stored. A bucket can contain multiple measurements .
+Measurement: Logical grouping for time series data. All points in a given measurement should have the same tags.
+![](https://github.com/DarshilShukla26/Real-Time-Air-Quality-Dashboard/assets/97797056/92ef314e-d1f3-4df4-a82c-4dcb84c30e0e)
+
+# VISUALIZATION TOOL: GRAFANA
+Grafana open source software enables you to query, visualize, alert on, and explore your metrics, logs, and traces wherever they are stored.
+Popular among IOT based projects.
+Whole configuration is already explained. Please refer this document. 
+https://docs.google.com/document/d/1KFV7ZiS242wdmRd_CY4sNDocOYhhpRAVSYkmDPeuvKo/edit 
+
+# RESULTS:
+![](https://github.com/DarshilShukla26/Real-Time-Air-Quality-Dashboard/assets/97797056/befd0388-d536-4b43-bbe2-cd0d633db55b)
+![](https://github.com/DarshilShukla26/Real-Time-Air-Quality-Dashboard/assets/97797056/72b1cf0e-b17b-461e-b04a-0064368dc41d)
+![](https://github.com/DarshilShukla26/Real-Time-Air-Quality-Dashboard/assets/97797056/1cff3981-8b5e-431f-a78b-861aefbcf60b)
+![](https://github.com/DarshilShukla26/Real-Time-Air-Quality-Dashboard/assets/97797056/60e23394-4b25-4947-a5e2-30e8982edaf9)
+
 
