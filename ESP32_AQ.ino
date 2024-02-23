@@ -20,19 +20,19 @@
 Adafruit_BME680 bme; // I2C
 
 float temperature, humidity, pressure, gas, altitudeBme, val1, val2, val3; 
-float latitude = 23.038126; 
-float longitude = 72.552605;
+float latitude = ; 
+float longitude = ;
 char output[256];
 Plantower_PMS7003 pms7003 = Plantower_PMS7003();
 
-const char* WIFI_SSID = "Rishi_Laptop";
-const char* WIFI_PASSWORD = "123456789R";
+const char* WIFI_SSID = "YOUR WIFI NAME";
+const char* WIFI_PASSWORD = "PASSCODE";
 
-#define INFLUXDB_URL "https://us-east-1-1.aws.cloud2.influxdata.com"
-#define INFLUXDB_TOKEN "O1_V2GneSPSShWlBRoZEoY1nUmY8e-BeoAfIMr8XLlUFszDE6gxV1MIGmToiA3c9kN78Xq4QeRoFJ1BWl9H6sQ=="
-#define INFLUXDB_ORG "55e78fd6907352a4"
-#define INFLUXDB_BUCKET "AIR_Q018"
-#define INFLUXDB_MEASUREMENT "atmosphere_data"
+#define INFLUXDB_URL ""
+#define INFLUXDB_TOKEN ""
+#define INFLUXDB_ORG ""
+#define INFLUXDB_BUCKET ""
+#define INFLUXDB_MEASUREMENT ""
 
 // Set timezone. You can refer here: http://bit.ly/3YKh66x
 #define TZ_INFO "IST-5:30"
