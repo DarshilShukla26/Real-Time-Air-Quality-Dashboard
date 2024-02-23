@@ -1,4 +1,4 @@
-![](https://github.com/DarshilShukla26/Real-Time-Air-Quality-Dashboard/assets/97797056/fd61d624-fdf2-414a-96ee-1b100b98751b)# Real-Time-Air-Quality-Dashboard
+# Real-Time-Air-Quality-Dashboard
 Hands on Esp32 DEVKIT-V1, NEO-6M GPS Sensor, BME688 Sensor, PMS Sensor.
 Coding using Arduino-IDE.
 Received the developed code for BME and PMS, were tasked to incorporate NEO-6M, database and render it on a dashboard.
